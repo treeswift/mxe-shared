@@ -1,7 +1,8 @@
-## THESE ARE THE LIBRARIES THAT CURRENTLY BUILD WITHOUT ANY SOURCE CODE EDITING ( in alphabetical order :) )
+## THESE ARE THE LIBRARIES THAT CURRENTLY BUILD AND WORK AS INTENDED WITHOUT ANY SOURCE CODE EDITING ( in alphabetical order :) )
 
 ------------------------------------------------------------------------------------------------------------
 
+angle \
 assimp \
 atk \
 atkmm \
@@ -10,20 +11,24 @@ bzip2 \
 cairo \
 cairomm \
 ccache \
+chromaprint \
 cmake \
 curl \
 dbus \
 dlfcn-win32 \
+eigen \
 exiv2 \
 expat \
+faad2 \
+fdk-aac \
 ffmpeg \
+flac \
 fontconfig \
 freetds \
 freetype \
 freetype-bootstrap \
 fribidi \
 jsoncpp \
-gdk-pixbuf \
 gegl \
 gettext \
 gexiv2 \
@@ -33,31 +38,40 @@ gmp \
 gnutls \
 gst-plugins-base \
 gstreamer \
+gtk2 \
 gtk3 \
+gtkmm2 \
 gtkmm3 \
 harfbuzz \
 icu4c \
-jannson \
+jansson \
 jasper \
 jpeg \
 json-c \
 json-glib \
+jsoncpp \
 lame \
 lcms \
 libass \
 libbluray \
 libbs2b \
+libcaca \
 libcroco \
+libdvdcss \
+libdvdnad \
+libdvdread \
 libepoxy \
 libevent \
 libffi \
 libgcrypt \
+libgnurx \
 libgpg_error \
 libgsf \
 libiconv \
 libidn2 \
 libjpeg-turbo \
 liblsmash \
+libmms \
 libmng \
 libmodplug \
 libmypaint \
@@ -66,8 +80,10 @@ liboil \
 libpng \
 libpsl \
 librsvg \
+librtmp \
 libsamplerate \
 libsigc++ \
+libsndfile \
 libsoup \
 libssh2 \
 libunistring \
@@ -83,6 +99,8 @@ minizip \
 mman-win32 \
 mpg123 \
 mypaint-brushes \
+ncurses \
+neon \
 nettle \
 ogg \
 openal \
@@ -95,10 +113,13 @@ pango \
 pangomm \
 pcre \
 pcre2 \
+pe-parse \
+pe-util \
 pixman \
 poppler \
 poppler-data \
 portaudio \
+pthreads \
 qt3d \
 qt5 \
 qtactiveqt \
